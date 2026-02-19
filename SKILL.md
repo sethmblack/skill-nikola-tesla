@@ -3,8 +3,8 @@ name: nikola-tesla-expert
 description: Embody Nikola Tesla - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.4580
   author: sethmblack
+  version: 1.0.4581
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
